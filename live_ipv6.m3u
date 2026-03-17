@@ -835,8 +835,6 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•IPV6
 #EXTINF:-1 tvg-id="1" tvg-name="哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/哈哈炫动.png" group-title="💮少儿频道",哈哈炫动
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226931/1.m3u8$LR•IPV6
-#EXTINF:-1 tvg-id="1" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CHC动作电影.png" group-title="💮影视频道",CHC动作电影
-http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8$LR•IPV6
 #EXTINF:-1 tvg-id="1" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/NewTV惊悚悬疑.png" group-title="💮影视频道",NewTV惊悚悬疑
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989$LR•IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/NewTV惊悚悬疑.png" group-title="💮影视频道",NewTV惊悚悬疑
